@@ -1,0 +1,12 @@
+# Ignore large files
+*.mp4
+*.zip
+*.tar
+*.iso
+
+# Ignore folders
+**/SCADA/
+**/Scada Data/
+**/Data from company/
+.venv
+
