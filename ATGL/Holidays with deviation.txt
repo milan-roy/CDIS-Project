@@ -1,0 +1,39 @@
+2020
+	Makar Sankranti - 14 January - Not Present in Data
+	Holi - 10 March - Not Present in Data
+	Rakshabandhan - 3 August - Yes Dip
+	Janmashtami - 12 August - Yes Dip
+	Dussehra - 25 October - Yes Dip
+	Diwali - 14 November - Multiple days dip (before and after) (13 - 25 both days inclusive)
+
+2021
+	Makar Sankranti - 14 January - Yes Dip (2 Days 14 and 15)
+	Holi - 29 March - Yes Dip
+	Rakshabandhan - 22 August - Yes Dip
+	Janmashtami - 30 August - Yes Dip
+	Dussehra - 15 October - Yes Dip
+	Diwali - 4 November - Multiple days dip (before and after) (2 - 14 both days inclusive)
+
+2022
+	Makar Sankranti - 14 January - Yes Dip (2 Days 14 and 15)
+	Holi - 18 March - Yes Dip
+	Rakshabandhan - 11 August - Yes Dip
+	Janmashtami - 19 August - Yes Dip
+	Dussehra - 5 October - Yes Dip
+	Diwali - 24 October - Multiple days dip (before and after) (22 - 3 both days inclusive)
+
+2023
+	Makar Sankranti - 14 January - Yes Dip (2 Days 14 and 15)
+	Holi - 8 March - Yes Dip
+	Rakshabandhan - 30 August - Yes Dip
+	Janmashtami - 7 September - Yes Dip
+	Dussehra - 24 October - Yes Dip
+	Diwali - 12 November - Multiple days dip (before and after) (10 - 22 both days inclusive)
+
+2024
+	Makar Sankranti - 14 January - Yes Dip (2 Days 14 and 15)
+	Holi - 25 March - Yes Dip
+	Rakshabandhan - 19 August - Yes Dip
+	Janmashtami - 26 August - Yes Dip
+	Dussehra - 12 October - Yes Dip
+	Diwali - 31 October - Multiple days dip (before and after) (30 - 10 both days inclusive)
